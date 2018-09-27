@@ -9,7 +9,9 @@
 * 身份证
 
 上海查询地址：
+> http://www.shrc.com.cn/webMaster/ggrs/ggrs_dawtgl4.htm
 
+主页地址：
 > http://www.shrc.com.cn/webMaster/ggrs/ggrs_dawtgl.htm
 
 ## 办理准迁证
